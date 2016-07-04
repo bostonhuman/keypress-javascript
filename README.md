@@ -14,4 +14,4 @@ The keyboard events are fired when a user interacts with the keyboard, they fire
 ```
 git clone https://github.com/bostonhuman/keypress-javascript
 ```
-* Open `index.html` to run the app.
+* Open `keypress.html` to run the app.
